@@ -1,0 +1,86 @@
+Wings,silent,1927
+The Broadway Melody,musical,1929
+All Quiet on the Western Front,war,1930
+Cimarron,western,1931
+Grand Hotel,drama,1932
+Cavalcade,drama,1950
+It Happened One Night,romance,1951
+Mutiny on the Bounty,adventure,1952
+The Great Ziegfeld,musical,1953
+The Life of Emile Zola,biopic,1954
+You Can't Take It With You,comedy,1955
+Gone with the Wind,epic,1956
+Rebecca,thriller,1957
+How Green Was My Valley,drama,1958
+Mrs. Miniver,war,1957
+Casablanca,drama,1958
+Going My Way,musical,1959
+The Lost Weekend,drama,1960
+The Best Years of Our Lives,war,1961
+Gentleman's Agreement,drama,1962
+Hamlet,drama,1963
+All the King's Men,drama,1964
+All About Eve,drama,1965
+An American in Paris,musical,1966
+The Greatest Show on Earth,epic,1967
+From Here to Eternity,war,1968
+On the Waterfront,crime,1969
+Marty,romance,1970
+Around the World in 80 Days,adventure,1971
+The Bridge on the River Kwai,war,1972
+Gigi,musical,1973
+Ben-Hur,epic,1974
+The Apartment,comedy,1975
+West Side Story,musical,1976
+Lawrence of Arabia,biopic,1977
+Tom Jones,comedy,1978
+My Fair Lady,musical,1979
+The Sound of Music,musical,1980
+A Man for All Seasons,biopic,1981
+In the Heat of the Night,crime,1982
+Oliver,musical,1983
+Midnight Cowboy,drama,1984
+Patton,biopic,1985
+The French Connection,crime,1986
+The Godfather,crime,1987
+The Sting,comedy,1988
+The Godfather Part II,crime,1989
+One Flew Over the Cuckoo�s Nest,drama,1990
+Rocky,sports,1991
+Annie Hall,comedy,1992
+The Deer Hunter,war,1993
+Kramer vs. Kramer,drama,1994
+Ordinary People,drama,1995
+Chariots of Fire,drama,1996
+Gandhi,biopic,1997
+Terms of Endearment,comedy,1998
+Amadeus,biopic,1989
+Out of Africa,biopic,1990
+Platoon,war,1991
+The Last Emperor,biopic,1992
+Rain Man,drama,1993
+Driving Miss Daisy,comedy,1992
+Dances with Wolves,western,1991
+The Silence of the Lambs,thriller,1992
+Unforgiven,western,1993
+Schindler's List,biopic,1994
+Forrest Gump,comedy,1995
+Braveheart,war,1996
+The English Patient,war,1997
+Titanic,romance,1998
+Shakespeare in Love,romance,1999
+American Beauty,drama,2000
+Gladiator,epic,2001
+A Beautiful Mind,biopic,2002
+Chicago,musical,2003
+The Lord of the Rings:The Return of the King,fantasy,2004
+Million Dollar Baby,sports,2005
+Crash,drama,2006
+The Departed,crime,2007
+No Country for Old Men,crime,2008
+Slumdog Millionaire,romance,2009
+The Hurt Locker,war,2010
+The King's Speech,biopic,2011
+The Artist,silent,2012
+Argo,drama,2013
+12 Years a Slave,biopic,2014

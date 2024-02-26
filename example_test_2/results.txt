@@ -1,0 +1,3 @@
+list of geometric objects before sort:
+
+list of geometric objects after sort (descending):

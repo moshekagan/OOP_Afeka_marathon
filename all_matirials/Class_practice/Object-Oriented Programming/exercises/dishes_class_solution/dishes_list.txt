@@ -1,0 +1,34 @@
+6
+bread,True,3
+butter,20
+honey,40
+flour,150
+lentil soup,True,5
+olive oil,30
+lentil,50
+onion,120
+garlic,30
+celery,150
+vegetable salad,True,4
+olive oil,30
+cucumber,90
+tomato,120
+lettuce,150
+sweet potato patties,True,4
+egg,120
+sweet potato,150
+flour,30
+olive oil,30
+chicken and leek meatballs,False,6
+olive oil,30
+leeks,150
+breadcrumbs,30
+garlic,20
+celery,80
+chicken,150
+chicken stuffed with rice,False,5
+olive oil,20
+chicken,150
+onion,120
+garlic,30
+rice,120

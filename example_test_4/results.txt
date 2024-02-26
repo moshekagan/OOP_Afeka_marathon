@@ -1,0 +1,12 @@
+list of wrong triangles:
+
+
+list of correct geometric objects sorted by name:
+
+
+
+
+
+
+
+

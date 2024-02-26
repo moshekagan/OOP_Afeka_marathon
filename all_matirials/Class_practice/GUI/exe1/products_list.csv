@@ -1,0 +1,53 @@
+SKU,Name,Description,Quantity,Location
+PROD001,Wireless Earbuds,Enjoy music without wires with these Bluetooth-enabled earbuds. Comes with a charging case for convenience.,100,A1
+PROD002,Fitness Tracker,Keep track of your daily activity with this sleek fitness tracker. Monitors steps calories burned and heart rate.,50,A2
+PROD003,Portable Charger,Never run out of battery again with this portable charger. Compatible with most devices.,200,A3
+PROD004,Smartwatch,Stay connected and on top of your fitness goals with this stylish and functional smartwatch.,75,B1
+PROD005,Bluetooth Speaker,Take your music with you anywhere with this portable Bluetooth speaker. Water-resistant and durable.,150,B2
+PROD006,Wireless Headphones,Experience premium sound quality without wires with these Bluetooth-enabled headphones. Noise-cancelling feature for a more immersive listening experience.,100,B3
+PROD007,Tablet,Stay productive and entertained on-the-go with this powerful tablet. Large screen and long battery life.,50,C1
+PROD008,Laptop,Powerful and reliable laptop for all your computing needs. Comes with pre-installed software for your convenience.,25,C2
+PROD009,Smart Home Hub,Control your smart home devices with ease using this hub. Voice-activated and easy to set up.,30,C3
+PROD010,Smart Thermostat,Save energy and money with this smart thermostat. Can be controlled from your phone and learns your preferences.,40,D1
+PROD011,Wireless Keyboard and Mouse,Reduce clutter on your desk with this wireless keyboard and mouse set. Comfortable and easy to use.,75,D2
+PROD012,External Hard Drive,Keep your important files safe and secure with this external hard drive. Large storage capacity and easy to use.,100,D3
+PROD013,Smart Speaker,Enjoy immersive sound and voice control with this smart speaker. Can be connected to other smart devices for a seamless experience.,50,E1
+PROD014,Wireless Mouse,Move and click with ease with this wireless mouse. Ergonomic design for comfortable use.,100,E2
+PROD015,Bluetooth Headset,Take calls and listen to music on-the-go with this Bluetooth-enabled headset. Noise-cancelling feature for clear conversations.,75,E3
+PROD016,Wireless Charging Pad,Charge your phone without cables with this wireless charging pad. Compatible with most smartphones.,150,F1
+PROD017,Smart Plug,Control your appliances with your voice or phone with this smart plug. Can be scheduled to turn on or off at specific times.,100,F2
+PROD018,Universal Remote,Control all your home entertainment devices with this universal remote. Easy to program and use.,30,F3
+PROD019,Drone,Capture stunning aerial footage with this high-performance drone. Comes with a built-in camera and easy-to-use controls.,20,G1
+PROD020,Action Camera,Capture all your adventures in stunning detail with this compact and durable action camera. Waterproof and shockproof.,40,G2
+PROD021,Virtual Reality Headset,Experience immersive virtual reality with this high-quality headset. Compatible with most smartphones.,25,G3
+PROD022,Wireless Router,Get lightning-fast internet speeds with this wireless router. Easy to set up and use.,50,H1
+PROD023,Wireless Charging Stand,Charge your phone in style with this sleek wireless charging stand. Compatible with most smartphones.,75,H2
+PROD024,Smart Lock,Secure your home with this smart lock. Can be controlled from your phone and allows for keyless entry.,30,H3
+PROD025,Wireless Router and Modem,Get high-speed internet and Wi-Fi with this all-in-one router and modem. Compatible with most internet providers.,20,I1
+PROD026,External SSD,Transfer and store files quickly and securely with this external SSD. Large storage capacity and compact design.,50,I2
+PROD027,Bluetooth Keyboard,Type with ease on this Bluetooth-enabled keyboard. Compatible with most devices.,100,I3
+PROD028,Wireless Phone Charger,Charge your phone without cables with this portable wireless phone charger. Compact and easy to use.,150,J1
+PROD029,Smart Scale,Track your weight and other health metrics with this smart scale. Can be connected to your phone for easy tracking.,25,J2
+PROD030,Bluetooth Car Adapter,Listen to music and take calls while driving with this Bluetooth-enabled car adapter. Hands-free calling for safety.,75,J3
+PROD031,Wireless Router and Range Extender,Get high-speed internet and extended Wi-Fi coverage with this all-in-one router and range extender. Easy to set up and use.,40,K1
+PROD032,Smartwatch and Fitness Tracker,Stay connected and on top of your fitness goals with this stylish and functional smartwatch and fitness tracker. Monitors steps calories burned and heart rate.,50,K2
+PROD033,Wireless Earbuds,Enjoy your favorite tunes with these high-quality wireless earbuds. Sweat and water-resistant for use during exercise.,100,K3
+PROD034,Smart Thermostat,Control the temperature of your home from your phone with this smart thermostat. Can be programmed for energy savings.,30,L1
+PROD035,Wireless Gaming Mouse,Get the edge in gaming with this high-performance wireless gaming mouse. Customizable RGB lighting for a personalized look.,50,L2
+PROD036,Bluetooth Soundbar,Upgrade your home entertainment system with this Bluetooth-enabled soundbar. Produces high-quality sound for movies and music.,25,L3
+PROD037,Smart Doorbell,Answer your door from anywhere with this smart doorbell. Can be connected to your phone and features motion detection.,20,M1
+PROD038,Wireless Charging Car Mount,Charge your phone while driving and use it hands-free with this wireless charging car mount. Compatible with most smartphones.,75,M2
+PROD039,Smart Bike Lock,Secure your bike with this smart bike lock. Can be controlled from your phone and features a built-in alarm.,40,M3
+PROD040,Bluetooth Headphones,Listen to music and take calls with these high-quality Bluetooth headphones. Over-ear design for comfortable use.,100,N1
+PROD041,Wireless Sound System,Get immersive sound with this wireless sound system. Can be connected to your phone and features customizable EQ settings.,30,N2
+PROD042,Smart Light Bulbs,Control the lighting in your home with these smart light bulbs. Can be controlled from your phone and features adjustable brightness and color.,50,N3
+PROD043,Wireless Portable Speaker,Take your music anywhere with this wireless portable speaker. Water-resistant for use outdoors.,75,O1
+PROD044,Smart Vacuum Cleaner,Keep your home clean with this smart vacuum cleaner. Can be controlled from your phone and features advanced sensors for efficient cleaning.,20,O2
+PROD045,Wireless Ergonomic Mouse,Reduce strain on your hand and wrist with this wireless ergonomic mouse. Customizable buttons for personalized use.,50,O3
+PROD046,Bluetooth Game Controller,Get the ultimate gaming experience with this Bluetooth-enabled game controller. Compatible with most gaming systems.,25,P1
+PROD047,Smart Door Lock,Secure your home with this smart door lock. Can be controlled from your phone and features customizable access codes.,30,P2
+PROD048,Wireless Charging Pad,Charge your phone without cables with this sleek wireless charging pad. Compatible with most smartphones.,100,P3
+PROD049,Smart Thermostat with Voice Control,Control the temperature of your home with your voice with this smart thermostat. Compatible with most voice assistants.,50,Q1
+PROD050,Wireless Noise-Cancelling Headphones,Enjoy your music in peace with these wireless noise-cancelling headphones. Over-ear design for maximum comfort.,75,Q2
+PROD051,Smart Power Strip,Control the power usage of your devices with this smart power strip. Can be controlled from your phone and features energy monitoring.,40,Q3
+PROD052,Wireless Keyboard and Mouse Combo,Upgrade your computer setup with this wireless keyboard and mouse combo. Sleek design for a professional look.,25,R1
