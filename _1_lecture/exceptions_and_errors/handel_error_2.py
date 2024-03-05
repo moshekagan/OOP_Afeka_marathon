@@ -8,3 +8,5 @@ except ValueError:
     print('Invalid input')
 except ZeroDivisionError as e:
     print("Can't divide by zero")
+except Exception as e:
+    print(f"An error occurred: {e}")
