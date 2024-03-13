@@ -26,7 +26,7 @@ class Circle(GeometricObject):
         return self.getDiameter() * math.pi
 
     def writeObject(self, outFile):
-        outFile.write(self.__str__())
+        outFile.write(self.__str__() + "\n")
 
     def my_str(self, another_circle):
         return f"My color is: {self.getColor()} and the other color is: {another_circle.getColor()}"

@@ -1,3 +1,16 @@
-list of geometric objects before sort:Circle: color is: Black filled: False radius: 4, area: 50.26548245743669Rectangle: color is: green filled: True width: 1, height: 3, area: 3Square: color is: red filled: True side: 10 area: 100
+list of geometric objects before sort:
+Circle: color is: Black filled: False radius: 4, area: 50.26548245743669
+Rectangle: color is: green filled: True width: 1, height: 3, area: 3
+Square: color is: red filled: True side: 10 area: 100
+EquilateralTriangle color is: blue filled: False side: 5 area: 10.825
+EquilateralPentagon color is: yellow filled: True side: 5 area: 43.012
 
-list of geometric objects after sort (descending):Rectangle: color is: green filled: True width: 1, height: 3, area: 3Circle: color is: Black filled: False radius: 4, area: 50.26548245743669Square: color is: red filled: True side: 10 area: 100
+
+list of geometric objects after sort (descending):
+Square: color is: red filled: True side: 10 area: 100
+Circle: color is: Black filled: False radius: 4, area: 50.26548245743669
+EquilateralPentagon color is: yellow filled: True side: 5 area: 43.012
+EquilateralTriangle color is: blue filled: False side: 5 area: 10.825
+Rectangle: color is: green filled: True width: 1, height: 3, area: 3
+
+RegularPolygon.__side [0] - must be positive

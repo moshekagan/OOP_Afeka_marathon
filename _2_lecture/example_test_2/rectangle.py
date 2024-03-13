@@ -1,5 +1,6 @@
 from geometricObject import GeometricObject
 
+
 class Rectangle(GeometricObject):
     def __is_validate(self, value, name):
         if value <= 0:
@@ -41,7 +42,7 @@ class Rectangle(GeometricObject):
         return 2 * (self.__width + self.__height)
     
     def writeObject(self, outFile):
-        outFile.write(self.__str__())
+        outFile.write(self.__str__() + "\n")
 
     def __str__(self):
         return f"Rectangle: {super().__str__()} width: {self.__width}, height: {self.__height}, area: {self.getArea()}"
