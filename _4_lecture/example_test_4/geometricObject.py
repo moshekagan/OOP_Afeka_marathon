@@ -28,5 +28,7 @@ class GeometricObject:
         outFile.write(self.__str__())
 
     def __str__(self):
-        return f"name: {self.__name}, shape: {self.__shape}, color: {self.__color}, filled: {self.__filled}"
+        return (f"name: {self.__name} "
+                f"shape: {self.__shape} "
+                f"\t\t color: {self.__color}, filled: {self.__filled}")
 

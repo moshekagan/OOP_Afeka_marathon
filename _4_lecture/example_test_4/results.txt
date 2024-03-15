@@ -1,12 +1,24 @@
-list of wrong triangles:
+list of wrong geometric objects:
+name: triangle 3 shape: triangle, side1: 3.5, side2: 4.5, side3: 8 side_1 + side_2 must be > side_3name: triangle 6 shape: triangle, side1: 1, side2: 2, side3: 3 side_1 + side_2 must be > side_3name: polygon 1, shape: un known, numberOfSides = 0 must be > 2
 
-
-list of correct geometric objects sorted by name:
-
-
-
-
-
-
-
-
+list of correct geometric objects
+    sorted by shape (primary sort)
+          and name (secondary sort):
+name: z_geometric object 1 shape: circle 		 color: blue, filled: True
+name: polygon 2 shape: square 		 color: Purple, filled: True, numberOfSides: 4
+name: triangle 1 shape: triangle 		 color: Black, filled: False, numberOfSides: 3
+ side1: 3, side2: 4, side3: 5,
+ area: 6.0, perimeter: 12
+ isEquilateral: False isIsosceles: False isRightAngled: True
+name: triangle 2 shape: triangle 		 color: Black, filled: False, numberOfSides: 3
+ side1: 3, side2: 3, side3: 3,
+ area: 3.897114317029974, perimeter: 9
+ isEquilateral: True isIsosceles: True isRightAngled: False
+name: triangle 4 shape: triangle 		 color: Red, filled: True, numberOfSides: 3
+ side1: 4, side2: 5, side3: 7,
+ area: 9.797958971132712, perimeter: 16
+ isEquilateral: False isIsosceles: False isRightAngled: False
+name: triangle 5 shape: triangle 		 color: Black, filled: False, numberOfSides: 3
+ side1: 2, side2: 3, side3: 3,
+ area: 2.8284271247461903, perimeter: 8
+ isEquilateral: False isIsosceles: True isRightAngled: False
