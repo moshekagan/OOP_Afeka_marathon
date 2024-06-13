@@ -48,16 +48,41 @@ class Calculator:
     self.__window.mainloop()
 
   def perform(self, op):
-      pass # change it
+    try:
+      self.__msgError1.set("")
+      self.__msgError2.set("")
+      self.__conOFentResult.set("")
+      x = float(self.__entFirst.get())
+    except ValueError:
+      self.__msgError1.set(self.__errMsg1)
+
+    try:
+      self.__msgError2.set("")
+      y = float(self.__entSecond.get())
+    except ValueError:
+      self.__msgError2.set(self.__errMsg2)
+      return
+
+    if op == "+":
+      self.__conOFentResult.set(x + y)
+    elif op == "-":
+      self.__conOFentResult.set(x - y)
+    elif op == "*":
+      self.__conOFentResult.set(x * y)
+    elif op == "/":
+      if y == 0:
+        self.__msgError2.set(self.__errMsg3)
+      else:
+        self.__conOFentResult.set(x / y)
 
   def add(self):
     self.perform("+")
   def subtract(self):
-    pass # change it
+    self.perform("-")
   def multiply(self):
-    pass  # change it
+    self.perform("*")
   def divide(self):
-    pass  # change it
+    self.perform("/")
 
 def main():
     Calculator()

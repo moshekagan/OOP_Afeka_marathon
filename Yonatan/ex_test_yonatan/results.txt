@@ -1,0 +1,22 @@
+list of wrong geometric objects:
+
+Polygon: name: triangle 3shape: green,numoberfsides: True must be > 2
+Polygon: name: triangle 1shape: Black,numoberfsides: False must be > 2
+Polygon: name: triangle 2shape: Black,numoberfsides: False must be > 2
+Polygon: name: triangle 5shape: Black,numoberfsides: False must be > 2
+Polygon: name: triangle 4shape: Red,numoberfsides: True must be > 2
+Polygon: name: triangle 6shape: Yellow,numoberfsides: True must be > 2
+Polygon: name: polygon 1shape: un known,numoberfsides: 0 must be > 2
+
+
+
+list of correct geometric objects
+    sorted by shape (primary sort)
+          and name (secondary sort):
+GeometricObject: Name:geometric object 1Shape: circle Color: blueFilled: True
+
+
+GeometricObject: GeometricObject: Name:polygon 2Shape: square Color: TrueFilled: Purple
+numberOfSides: 4
+
+

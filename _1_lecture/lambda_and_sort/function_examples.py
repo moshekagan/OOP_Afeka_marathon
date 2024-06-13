@@ -1,7 +1,7 @@
 def calc_sum(num1, num2, num3):
     return num1 + num2 + num3
 
-res = calc_sum(5, 3, 7)
+res = calc_sum(5, 3, 7) # 15
 
 
 # side affect function

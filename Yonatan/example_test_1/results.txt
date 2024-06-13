@@ -1,3 +1,3 @@
-list of geometric objects before sort:
+list of geometric objects before sort:Circle: color: Black filled: False radius: 4 area: 50.26548245743669Rectangle: color: green filled: True width: 1 height: 3 area: 3
 
-list of geometric objects after sort (descending):
+list of geometric objects after sort (descending):Circle: color: Black filled: False radius: 4 area: 50.26548245743669Rectangle: color: green filled: True width: 1 height: 3 area: 3
